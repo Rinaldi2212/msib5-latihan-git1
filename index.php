@@ -28,6 +28,7 @@
                         <?php
                             echo "<p>Rinaldi Fransius Simbolon</p>";
                             echo "<p>UPN VETERAN JAWA TIMUR</p>";
+                            echo "<p>Informatika</p>";
                         ?>
                     </div>
                 </div>
